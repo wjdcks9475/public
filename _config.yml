@@ -107,7 +107,7 @@ description              : "사차산업 혁명을 이끌어나갈 6명의 신�
 
 url                      : "https://wjdcks9475.github.io"
 
-baseurl                  :"/public" # "public"
+baseurl                  :"public" # "public"
 
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 
