@@ -15,26 +15,26 @@ title: 자기 주도 학습
   <tbody>
     <tr>
       <td>공감<br>(empathize)</td>
-      <td>ㅇㅇㅇ을 위해 ㅇㅇㅇ를 하는 단계</td>
+      <td>사람들을 유심히 관찰하고 인터뷰하면서 인사이트를 얻는 과정</td>
       <td>1. 공감지도:<br>ㅇㅇ을 위해 ㅇㅇ하는 기법, 어떠한 방법을 쓰며 어떠한 장점이 있다.</td>
     </tr>
     <tr>
-      <td>&nbsp;</td>
+      <td>문제정의하기</td>
       <td>&nbsp;</td>
       <td>2. ㅇㅇㅇ</td>
     </tr>
     <tr>
-      <td>&nbsp;</td>
+      <td>아이디어 발상하기</td>
       <td>&nbsp;</td>
       <td>3. ㅇㅇㅇ</td>
     </tr>
     <tr>
-      <td>&nbsp;</td>
+      <td>프로토타입 제작하기</td>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
     </tr>
     <tr>
-      <td>&nbsp;</td>
+      <td>테스트하기</td>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
     </tr>
